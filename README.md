@@ -19,4 +19,4 @@ Ce projet a été réalisé dans le cadre du cours *8INF887 - Apprentissage prof
   * *deutsch* : chansons traditionnelles allemandes
 * **generated_melodies** : Mélodies générées par nos modèles
 * **LSTM** : Contient un LSTM (Long short term memory encoder), entraîné sur les datasets *han* et *deutsch*.
-* **pdf_files** : Contient les deux rapports de sprint
+* **pdf_files** : Contient les deux rapports de sprint et le diapo de la présentation finale
