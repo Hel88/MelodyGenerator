@@ -12,11 +12,12 @@ Ce projet a été réalisé dans le cadre du cours *8INF887 - Apprentissage prof
 ## Contenu des dossiers
 
 * **Aleatoire** : Mélodies générées aléatoirement
-* **AutoEncodeurs** : Contient 2 VAE (Variational Auto Encoders)
-* **data** : les données du projet.
+* **AutoEncodeurs** : Contient 2 modèles de VAE (Variational Auto Encoders), la gen_2 est la plus récente (et efficace)
+* **data** : les données du projet
   * *han* : chansons traditionnelles chinoises
   * *france* : chansons traditionnelles françaises
   * *deutsch* : chansons traditionnelles allemandes
-* **generated_melodies** : Mélodies générées par nos modèles
-* **LSTM** : Contient un LSTM (Long short term memory encoder), entraîné sur les datasets *han* et *deutsch*.
-* **pdf_files** : Contient les deux rapports de sprint et le diapo de la présentation finale
+* **GAN** : contient un modèle de GAN (generative adversarial network)
+* **LSTM** : Contient un modèle de LSTM (Long short term memory encoder), entraîné sur les datasets *han* et *deutsch*.
+* **generated_melodies** : Mélodies générées par nos modèles, un résumé est disponible dans le fichier *Listen.ipynb*
+* **pdf_files** : Contient les deux rapports de sprint et le diaporama de la présentation finale
