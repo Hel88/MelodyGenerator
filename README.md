@@ -17,7 +17,7 @@ Ce projet a été réalisé dans le cadre du cours *8INF887 - Apprentissage prof
   * *han* : chansons traditionnelles chinoises
   * *france* : chansons traditionnelles françaises
   * *deutsch* : chansons traditionnelles allemandes
-* **GAN** : contient un modèle de GAN (generative adversarial network)
+* **GAN** : contient des modèles de GAN (generative adversarial network), gan2 contient les modèles les plus complets
 * **LSTM** : Contient un modèle de LSTM (Long short term memory encoder), entraîné sur les datasets *han* et *deutsch*.
 * **generated_melodies** : Mélodies générées par nos modèles, un résumé est disponible dans le fichier *Listen.ipynb*
 * **pdf_files** : Contient les deux rapports de sprint et le diaporama de la présentation finale
